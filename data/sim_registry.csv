@@ -1,0 +1,2 @@
+sim_id,registered_at,offense_count,risk_score,ban_level,ban_start,ban_expires,is_permanently_blocked,appeal_status,appeal_reason,last_offense_at,last_case_id
+TEST-ESC-001,2026-06-14 17:36:19,1,0,0,,,False,NONE,,2026-06-14 17:36:19,CASE-E1
